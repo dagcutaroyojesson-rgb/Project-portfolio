@@ -5,7 +5,7 @@
 body {
   margin: 0;
   font-family: Georgia, serif;
-  background-color: #badbf2;
+  background-color: #fce8df;
   color: #333;
 }
 
@@ -100,10 +100,10 @@ h1 {
 
 .skill-card {
   padding: 25px;
-  border: 1px solid #efe1e1;
+  border: 1px solid #b8d8e8;
   border-radius: 10px;
   text-align: center;
-  background-color: #efe1e1;
+  background-color: #ffffff;
   min-height: 180px;
 }
 
